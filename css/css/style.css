@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.box-img{
+  width: 150px;	
+  height: 150px;
+}
